@@ -1,0 +1,6 @@
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\ArrayHomework\bin\Debug\ArrayHomework.exe.config
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\ArrayHomework\obj\Debug\1problem.csprojResolveAssemblyReference.cache
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\ArrayHomework\bin\Debug\ArrayHomework.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\ArrayHomework\bin\Debug\ArrayHomework.pdb
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\ArrayHomework\obj\Debug\ArrayHomework.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\ArrayHomework\obj\Debug\ArrayHomework.pdb

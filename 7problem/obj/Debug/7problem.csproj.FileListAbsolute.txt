@@ -1,0 +1,5 @@
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\7problem\bin\Debug\7problem.exe.config
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\7problem\bin\Debug\7problem.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\7problem\bin\Debug\7problem.pdb
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\7problem\obj\Debug\7problem.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\7problem\obj\Debug\7problem.pdb

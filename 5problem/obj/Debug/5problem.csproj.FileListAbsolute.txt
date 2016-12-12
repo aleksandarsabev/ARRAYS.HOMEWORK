@@ -1,0 +1,6 @@
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\5problem\bin\Debug\5problem.exe.config
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\5problem\bin\Debug\5problem.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\5problem\bin\Debug\5problem.pdb
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\5problem\obj\Debug\5problem.csprojResolveAssemblyReference.cache
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\5problem\obj\Debug\5problem.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\5problem\obj\Debug\5problem.pdb

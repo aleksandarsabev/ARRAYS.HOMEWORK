@@ -1,0 +1,6 @@
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\3problem\bin\Debug\3problem.exe.config
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\3problem\bin\Debug\3problem.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\3problem\bin\Debug\3problem.pdb
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\3problem\obj\Debug\3problem.csprojResolveAssemblyReference.cache
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\3problem\obj\Debug\3problem.exe
+C:\Users\AS\Desktop\Programming\ArrayHomework\ArrayHomework\3problem\obj\Debug\3problem.pdb
